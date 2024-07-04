@@ -1,4 +1,24 @@
-## Hi there 👋
+
+#### 👋 Hi, I'm Bo Yue, a first year PhD student from CUHK-SZ
+#### ⚡ Coming soon
+
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Research&message=Reinfocement Learning&color=red"/>
+  
+<!-- <a href="xxx"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="xxx"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a> -->
+  
+</p>
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bobyue0118&repo=constraint_learning_new&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Bobyue0118&layout=compact&theme=default)
+
+![Bobyue's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Bobyue0118&theme=default&show_icons=true)
+
+<!-- ![Bobyue's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bobyue0118&theme=react) -->
 
 <!--
 **Bobyue0118/Bobyue0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
