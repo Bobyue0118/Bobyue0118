@@ -1,6 +1,5 @@
 
 #### 👋 Hi, I'm Bo Yue, a first year PhD student from CUHK-SZ
-#### ⚡ Coming soon
 
 - 🔭 I’m currently working on Reinforcement Learning and Embodied AI
 - 🎓 I’m a PhD student at CUHK-SZ, graduated from SJTU
