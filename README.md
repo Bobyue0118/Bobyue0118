@@ -2,6 +2,11 @@
 #### 👋 Hi, I'm Bo Yue, a first year PhD student from CUHK-SZ
 #### ⚡ Coming soon
 
+- 🔭 I’m currently working on Reinforcement Learning and Embodied AI
+- 🎓 I’m a PhD student at CUHK-SZ
+- 📫 How to reach me: 465741287@qq.com
+- 🛵 Leave a comment if you have interesting stories!
+
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Research&message=Reinfocement Learning&color=red"/>
