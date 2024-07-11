@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Reinforcement Learning and Embodied AI
 - 🎓 I’m a PhD student at CUHK-SZ, graduated from SJTU
-- 📫 How to reach me: 465741287@qq.com
 - 🛵 Leave a comment if you have interesting stories!
 
 <p>
